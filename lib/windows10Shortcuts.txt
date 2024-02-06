@@ -1,0 +1,300 @@
+Function	Command
+Power menu	Press Windows key + X or right-click Start
+Windows + Tab	Launch Windows 10 Task View
+Windows + Q	Search the web and Windows with Cortana (speech)
+Windows + S	Search the web and Windows with Cortana (keyboard input)
+Windows + I	Open Windows 10 settings
+Windows + A	Open Windows 10 notifications
+Windows + L	Lock your Windows 10 device
+Windows + Ctrl + D	Create new virtual desktop
+Windows + Ctrl + F4	Close current virtual desktop
+Windows + Ctrl + [Left][Right]	Switch between virtual desktops
+Windows + [Left][Right][Up][Down]	Position windows on your screenE.g. Windows + [Left] moves the current window to the left half of your screen. If you use Windows + [Up] afterward, the current window will be placed in the upper left quarter of your screen.And, what’s very handy in my opinion: If you release the Windows key after positioning a window, Task View shows up on the opposite side of the positioned window to select and position another app.
+Windows + H	Share content (if supported by current app)
+Windows + K	Connect to wireless displays and audio devices
+Windows + X	Open Start button context menu
+Windows key + G	Starts App recording
+Windows + D	Show Windows desktop
+Windows + E	Open File Explorer
+Windows + Space	Switch keyboard input language (if you have added at least a second one)
+Windows + Shift + [Left][Right]	Move current Window from one monitor to another (when using a multiple monitor setup)
+Windows + [1][2][3][…]	Open programs that are pinned to task barE.g. if first pinned program on your taskbar is Windows Explorer (from left to right); the shortcut Windows + 1 opens Windows Explorer for you
+Windows + R	Run a command
+Windows + P	Project a screen
+Alt + Tab	Switch to previous window
+Alt + Space	Restore, move, size, minimize, maximize or close current window. Also works like a charm for Windows 10 modern apps.
+Alt + F4	a) Close current window.  b) If you’re on your Windows 10 desktop, open Power dialogue to shut down or restart Windows, put your device in sleep mode, or sign out or switch the current user.
+CTRL + SHIFT + ESC	Open Task Manager
+Alt + underlined menu	Open menu or program. Example, to open the Edit menu in WordPad, press Alt then press E on your keyboard. Repeat the same step for the menu you want to open.
+General Windows keyboard shortcuts
+Function	Command
+Access help system in an application	F1
+Activate menu bar	F10
+Close a program	Alt + F4
+Close current window in Multiple Document interface based programs	CTRL + F4
+Access right-click menu in the application	Shift + F10
+Launch Start menu	Ctrl + ESC or Windows key
+Cut	CTRL + X
+Copy	CTRL + C
+Paste	CTRL + V
+Delete	DEL
+Undo	CTRL + Z
+System Properties	Windows key + Pause/Break
+Bypass auto-play when an external storage device is connected	Hold down SHIFT key while inserting a storage device
+Desktop, My Computer, and File Explorer
+For selected items, you can use the following shortcuts:
+
+Function	Command
+Search	CTRL + F or F3
+Rename an item	F2
+Delete a folder or files permanently	SHIFT + DEL
+Access properties of a file or folder	ALT + ENTER or ALT + double-click
+Copy a file	CTRL key while dragging file
+Create a shortcut	CTRL + SHIFT while dragging file
+Select All	CTRL + A
+Refresh contents of a window	F5
+View the folder one level up	Backspace key
+Close the selected folder and its parent folders	SHIFT key while clicking the close button
+Switch between left and right panes	F6
+File Explorer commands
+Function	Command
+Switch between left and right panes	F6
+Expand all subfolders under the selected folder	NUMLOCK + ASTERISK when using a numeric keyboard
+Expand the selected folder	NUMLOCK + PLUS sign when using a numeric keyboard
+Collapse the selected folder	NUMLOCK + MINUS sign when using a numeric keyboard
+Expand current selection if it’s collapsed, otherwise select first subfolder	Right arrow
+Collapse current selection if it’s expanded, otherwise, select parent folder	Left arrow
+Properties dialog commands
+
+Function	Command
+Move forward through options	Tab key
+Move backward through options	SHIFT + Tab
+Move forward through tabs	CTRL + Tab
+Move backward through tabs	CTRL + SHIFT + TAB
+Open and Save dialog commands
+Function	Command
+Open the Save In and address bar	CTRL + O and F4
+Refresh	F5
+Open the folder one level up, if a folder is selected	BACKSPACE
+Windows 10 Command Prompt keyboard commands
+Text Selection
+
+Function	Command
+SHIFT + LEFT ARROW	Moves the cursor to the left one character, extending the selection
+SHIFT + RIGHT ARROW	Moves the cursor to the right one character, extending the selection
+SHIFT + UP ARROW	Selects text up line by line starting from the location of the insertion point
+SHIFT + DOWN ARROW	Extends text selection down one line, starting at the location of the insertion point
+SHIFT + END	If cursor is in current line being edited* First time extends selection to the last character in the input line.* Second consecutive press extends selection to the right margin; or else Selects text from the insertion point to the right margin.
+SHIFT + HOME	If cursor is in current line being edited* First time extends selection to the character immediately after the command prompt.* Second consecutive press extends selection to the left margin; or else Extends selection to the left margin.
+SHIFT + PAGE DOWN	Extends selection down one screen
+SHIFT + PAGE UP	Extends selection up one screen
+CTRL + SHIFT + RIGHT ARROW	Extends the selection one word to the right
+CTRL + SHIFT + LEFT ARROW	Extends the selection one word to the left
+CTRL + SHIFT + HOME	Extend selection to the beginning of the screen buffer
+CTRL + SHIFT + END	Extend selection to the end of the screen buffer
+CTRL + A	If cursor is in current line being edited (from first typed char to last type char) and line is not empty, and any selection cursor is also within the line being edited Selects all text after the prompt (phase 1); or else Selects the entire buffer (phase 2)
+Edit commands
+Function	Command
+Windows Key + V	Open clipboard history menu
+CTRL + V	Paste text into the command line
+SHIFT + INS	Paste text into the command line
+CTRL + C	Copy selected text to the clipboard
+CTRL + INS	Copy selected text to the clipboard
+Function	Command
+CTRL + M	Enter “Mark Mode” to move cursor within window
+ALT	In conjunction with one of the selection key combinations, begins selection in block mode
+ARROW KEYS	Move cursor in the direction specified
+PAGE KEYS	Move cursor by one page in the direction specified
+CTRL + HOME	Move cursor to beginning of buffer
+CTRL + END	Move cursor to end of buffer
+History navigation keys
+Function	Command
+CTRL + UP ARROW	Moves up one line in the output history
+CTRL + DOWN ARROW	Moves down one line in the output history
+CTRL + PAGE UP	Moves up one page in the output history
+CTRL + PAGE DOWN	Moves down one page in the output history
+Additional commands
+Function	Command
+CTRL + F	Opens “Find” in console dialog
+ALT + F4	Close the console window, of course!
+Keyboard Run Commands
+Use the following to access locations such as Control Panel items, File Explorer shell folders quickly using the run command.
+
+Opens	Press Windows + R and type:
+Open Documents Folder	documents
+Open Videos folder	videos
+Open Downloads Folder	downloads
+Open Favorites Folder	favorites
+Open Recent Folder	recent
+Open Pictures Folder	pictures
+Adding a new Device	devicepairingwizard
+About Windows dialog	winver
+Add Hardware Wizard	hdwwiz
+Advanced User Accounts	netplwiz
+Advanced User Accounts	azman.msc
+Backup and Restore	sdclt
+Bluetooth File Transfer	fsquirt
+Calculator	calc
+Certificates	certmgr.msc
+Change Computer Performance Settings	systempropertiesperformance
+Change Data Execution Prevention Settings	systempropertiesdataexecutionprevention
+Change Data Execution Prevention Settings	printui
+Character Map	charmap
+ClearType Tuner	cttune
+Color Management	colorcpl
+Command Prompt	cmd
+Component Services	comexp.msc
+Component Services	dcomcnfg
+Computer Management	compmgmt.msc
+Computer Management	compmgmtlauncher
+Connect to a Projector	displayswitch
+Control Panel	control
+Create A Shared Folder Wizard	shrpubw
+Create a System Repair Disc	recdisc
+Data Execution Prevention	systempropertiesdataexecutionprevention
+Date and Time	timedate.cpl
+Default Location	locationnotifications
+Device Manager	devmgmt.msc
+Device Manager	hdwwiz.cpl
+Device Pairing Wizard	devicepairingwizard
+Diagnostics Troubleshooting Wizard	msdt
+Digitizer Calibration Tool	tabcal
+DirectX Diagnostic Tool	dxdiag
+Disk Cleanup	cleanmgr
+Disk Defragmenter	dfrgui
+Disk Management	diskmgmt.msc
+Display	dpiscaling
+Display Color Calibration	dccw
+Display Switch	displayswitch
+DPAPI Key Migration Wizard	dpapimig
+Driver Verifier Manager	verifier
+Ease of Access Center	utilman
+EFS Wizard	rekeywiz
+Event Viewer	eventvwr.msc
+Fax Cover Page Editor	fxscover
+File Signature Verification	sigverif
+Font Viewer	fontview
+Game Controllers	joy.cpl
+IExpress Wizard	iexpress
+Internet Explorer	iexplore
+Internet Options	inetcpl.cpl
+iSCSI Initiator Configuration Tool	iscsicpl
+Language Pack Installer	lpksetup
+Local Group Policy Editor	gpedit.msc
+Local Security Policy	secpol.msc
+Local Users and Groups	lusrmgr.msc
+Location Activity	locationnotifications
+Magnifier	magnify
+Malicious Software Removal Tool	mrt
+Manage Your File Encryption Certificates	rekeywiz
+Microsoft Management Console	mmc
+Microsoft Support Diagnostic Tool	msdt
+Mouse	main.cpl
+NAP Client Configuration	napclcfg.msc
+Narrator	narrator
+Network Connections	ncpa.cpl
+New Scan Wizard	wiaacmgr
+Notepad	notepad
+ODBC Data Source Administrator	odbcad32
+ODBC Driver Configuration	odbcconf
+On-Screen Keyboard	osk
+Paint	mspaint
+Pen and Touch	tabletpc.cpl
+People Near Me	collab.cpl
+Performance Monitor	perfmon.msc
+Performance Options	systempropertiesperformance
+Phone and Modem	telephon.cpl
+Phone Dialer	dialer
+Power Options	powercfg.cpl
+Presentation Settings	presentationsettings
+Print Management	printmanagement.msc
+Printer Migration	printbrmui
+Printer User Interface	printui
+Private Character Editor	eudcedit
+Problem Steps Recorder	psr
+Programs and Features	appwiz.cpl
+Protected Content Migration	dpapimig
+Region and Language	intl.cpl
+Registry Editor	regedit
+Registry Editor 32	regedt32
+Remote Access Phonebook	rasphone
+Remote Desktop Connection	mstsc
+Resource Monitor	resmon
+Resultant Set of Policy	rsop.msc
+SAM Lock Tool	syskey
+Screen Resolution	desk.cpl
+Securing the Windows Account Database	syskey
+Services	services.msc
+Set Program Access and Computer Defaults	computerdefaults
+Share Creation Wizard	shrpubw
+Shared Folders	fsmgmt.msc
+Signout	logoff
+Snipping Tool	snippingtool
+Sound	mmsys.cpl
+Sound recorder	soundrecorder
+SQL Server Client Network Utility	cliconfg
+Sticky Notes	stikynot
+Stored User Names and Passwords	credwiz
+Sync Center	mobsync
+System Configuration	msconfig
+System Configuration Editor	sysedit
+System Information	msinfo32
+System Properties	sysdm.cpl
+System Properties (Advanced Tab)	systempropertiesadvanced
+System Properties (Computer Name Tab)	systempropertiescomputername
+System Properties (Hardware Tab)	systempropertieshardware
+System Properties (Remote Tab)	systempropertiesremote
+System Properties (System Protection Tab)	systempropertiesprotection
+System Restore	rstrui
+Task Manager	taskmgr
+Task Scheduler	taskschd.msc
+Trusted Platform Module (TPM) Management	tpm.msc
+Turn Windows features on or off	optionalfeatures
+User Account Control Settings	useraccountcontrolsettings
+Utility Manager	utilman
+Volume Mixer	sndvol
+Windows Action Center	wscui.cpl
+Windows Activation Client	slui
+Windows Anytime Upgrade Results	windowsanytimeupgraderesults
+Windows Disc Image Burning Tool	isoburn
+Windows Explorer	explorer
+Windows Fax and Scan	wfs
+Windows Firewall	firewall.cpl
+Windows Firewall with Advanced Security	wf.msc
+Windows Journal	journal
+Windows Media Player	wmplayer
+Windows Memory Diagnostic Scheduler	mdsched
+Windows Mobility Center	mblctr
+Windows Picture Acquisition Wizard	wiaacmgr
+Windows PowerShell	powershell
+Windows PowerShell ISE	powershell_ise
+Windows Remote Assistance	msra
+Windows Repair Disc	recdisc
+Windows Script Host	wscript
+Windows Update	wuapp
+Windows Update Standalone Installer	wusa
+Versione Windows	winver
+WMI Management	wmimgmt.msc
+WordPad	write
+XPS Viewer	xpsrchvw
+The name and terminology used for certain commands and functions have been revised in Windows 10, along with their locations. The following table provides how you can find and access them.
+
+Original Name	New Name, Location, and Functions
+Windows Explorer	File Explorer – (Press Windows key + E to launch)
+Favorites Navigation Pane (Windows Explorer)	Quick Access
+Folder options	Options (Files Explorer > View tab > Options)
+Recent Items	Located in File Explorer > This PC > Recent Files
+Computer or My Computer	This PC
+Control Panel	Settings (classic Control Panel can still be accessed – Windows key + X then click Control Panel)
+View Available Networks	Network Flyout – Notification or Show Available Networks (Settings > Network & Internet > Wi-Fi > Additional settings
+Action Center	clip_image001
+Located in the System Tray; Manage incoming email, system, social media notifications
+
+Start menu	Start
+Task View	clip_image002
+Create and Manage multiple desktops
+
+Aero Snap	Snap Assist – easily manage open windows on screen
+All Programs	All Apps
+Shutdown/Turn off computer	Power
+Switch Users	Located at the top of the Start represented by your account name
